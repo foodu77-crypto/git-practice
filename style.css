@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #f5f6fa;
+  color: #2d3436;
+  font-family: "Segoe UI", "Malgun Gothic", sans-serif;
+}
+
+nav {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  padding: 16px 32px;
+  background-color: #2d3436;
+}
+
+nav a {
+  color: #f5f6fa;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color: #74b9ff;
+}
+
+main {
+  padding: 32px;
+}
